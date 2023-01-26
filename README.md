@@ -9,5 +9,5 @@ This task was completed during the Department for Education (DfE) sponsored Soft
 It demonstrates the implementation of natural language processing.
 
 ## Instructions
-Download the python file (watch_next.py) along with the text file (moviesr.txt). Ensure you save both files to the same folder.
+Download the python file (watch_next.py) along with the text file (movies.txt). Ensure you save both files to the same folder.
 Run the python file to see the recommendation.
